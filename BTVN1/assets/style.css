@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+h2 {
+    font-size: 18px;
+}
+
 .web-75{
     float: left;
     width: 75%;
@@ -86,11 +90,11 @@ ul, li a{
 
 .web-arrow{
     position: absolute;
-    padding: 4px 6px;
+    font-weight: 900;
+    padding: 4px 7.5px;
     border-radius: 50%;
     color: red !important;
     background-color: #fff;
     right: 10px;
     line-height: 100%;
-    font-weight: bolder;
 }
